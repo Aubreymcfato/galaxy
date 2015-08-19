@@ -1,0 +1,527 @@
+{
+
+    "nodes": 
+
+[
+
+{
+
+    "author": "Jonathan Safran Foer",
+    "id": 1,
+    "title": "Se niente importa"
+
+},
+{
+
+    "author": "Jared Diamond",
+    "id": 2,
+    "title": "Armi, acciaio e malattie"
+
+},
+{
+
+    "author": "Konrad Lorenz",
+    "id": 3,
+    "title": "L'anello di Re Salomone"
+
+},
+{
+
+    "author": "Michael Pollan",
+    "id": 4,
+    "title": "Il dilemma dell'onnivoro"
+
+},
+{
+
+    "author": "Peter Singer",
+    "id": 5,
+    "title": "Liberazione animale"
+
+},
+{
+
+    "author": "David Foster Wallace",
+    "id": 6,
+    "title": "Considera l'aragosta"
+
+},
+{
+
+    "author": "Eric Schlosser",
+    "id": 7,
+    "title": "Fast food nation"
+
+},
+{
+
+    "author": "George Orwell",
+    "id": 8,
+    "title": "La fattoria degli animali"
+
+},
+{
+
+    "author": "John Maxwell Coetzee",
+    "id": 9,
+    "title": "La vita degli animali"
+
+},
+{
+
+    "author": "Temple Grandin",
+    "id": 10,
+    "title": "La macchina degli abbracci"
+
+},
+{
+
+    "author": "Oliver Sacks",
+    "id": 11,
+    "title": "Un antropologo su Marte"
+
+},
+{
+
+    "author": "Charles Darwin",
+    "id": 12,
+    "title": "L'origine dell'uomo"
+
+},
+{
+
+    "author": "Jared Diamond",
+    "id": 13,
+    "title": "Collasso"
+
+},
+{
+
+    "author": "Franz Kafka",
+    "id": 14,
+    "title": "Diari"
+
+},
+{
+
+    "author": "Henry Stephens Salt",
+    "id": 15,
+    "title": "I diritti degli animali"
+
+},
+{
+
+    "author": "Cartesio",
+    "id": 16,
+    "title": "Discorso sul metodo"
+
+},
+{
+
+    "author": "Max Brod",
+    "id": 17,
+    "title": "Kafka, una biografia"
+
+},
+{
+
+    "author": "Gino Roncaglia",
+    "id": 18,
+    "title": "La quarta rivoluzione"
+
+},
+{
+
+    "author": "Vannevar Bush",
+    "id": 19,
+    "title": "As we may think"
+
+},
+{
+
+    "author": "George Orwell",
+    "id": 22,
+    "title": "1984"
+
+},
+{
+
+    "author": "Renè Descartes",
+    "id": 23,
+    "title": "Discorso sul metodo"
+
+},
+{
+
+    "author": "Douglas Engelbart",
+    "id": 24,
+    "title": "Augmenting Human Intellect"
+
+},
+{
+
+    "author": "Hans Blumenberg",
+    "id": 25,
+    "title": "La leggibilità del mondo"
+
+},
+{
+
+    "author": "Jorges Luis Borges",
+    "id": 26,
+    "title": "Altre inquisizioni"
+
+},
+{
+
+    "author": "Roger Charties",
+    "id": 27,
+    "title": "L'ordine dei libri"
+
+},
+{
+
+    "author": "Marshall McLuhan",
+    "id": 28,
+    "title": "Gli strumenti del comunicare"
+
+},
+{
+
+    "author": "Umberto Eco & Carrier",
+    "id": 29,
+    "title": "Non sperate di liberarvi dei libri"
+
+},
+{
+
+    "author": "J.Nyce & P.Kahn",
+    "id": 30,
+    "title": "Da Memex a Hypertext"
+
+},
+
+    {
+        "author": "Riccardo Ridi",
+        "id": 31,
+        "title": "La biblioteca come ipertesto"
+    }
+
+],
+"relations": 
+[
+
+{
+
+    "id": 1,
+    "id_orig": 1,
+    "source": 0,
+    "target": 4
+
+},
+{
+
+    "id": 2,
+    "id_orig": 2,
+    "source": 0,
+    "target": 3
+
+},
+{
+
+    "id": 3,
+    "id_orig": 3,
+    "source": 0,
+    "target": 9
+
+},
+{
+
+    "id": 4,
+    "id_orig": 4,
+    "source": 0,
+    "target": 5
+
+},
+{
+
+    "id": 5,
+    "id_orig": 5,
+    "source": 0,
+    "target": 6
+
+},
+{
+
+    "id": 6,
+    "id_orig": 6,
+    "source": 0,
+    "target": 11
+
+},
+{
+
+    "id": 7,
+    "id_orig": 7,
+    "source": 3,
+    "target": 1
+
+},
+{
+
+    "id": 8,
+    "id_orig": 8,
+    "source": 3,
+    "target": 12
+
+},
+{
+
+    "id": 9,
+    "id_orig": 9,
+    "source": 3,
+    "target": 6
+
+},
+{
+
+    "id": 10,
+    "id_orig": 10,
+    "source": 3,
+    "target": 8
+
+},
+{
+
+    "id": 11,
+    "id_orig": 11,
+    "source": 3,
+    "target": 9
+
+},
+{
+
+    "id": 12,
+    "id_orig": 12,
+    "source": 4,
+    "target": 11
+
+},
+{
+
+    "id": 13,
+    "id_orig": 13,
+    "source": 4,
+    "target": 2
+
+},
+{
+
+    "id": 14,
+    "id_orig": 14,
+    "source": 4,
+    "target": 8
+
+},
+{
+
+    "id": 15,
+    "id_orig": 15,
+    "source": 10,
+    "target": 9
+
+},
+{
+
+    "id": 16,
+    "id_orig": 16,
+    "source": 5,
+    "target": 4
+
+},
+{
+
+    "id": 17,
+    "id_orig": 17,
+    "source": 5,
+    "target": 13
+
+},
+{
+
+    "id": 18,
+    "id_orig": 18,
+    "source": 0,
+    "target": 13
+
+},
+{
+
+    "id": 19,
+    "id_orig": 19,
+    "source": 4,
+    "target": 14
+
+},
+{
+
+    "id": 20,
+    "id_orig": 20,
+    "source": 3,
+    "target": 14
+
+},
+{
+
+    "id": 21,
+    "id_orig": 21,
+    "source": 0,
+    "target": 14
+
+},
+{
+
+    "id": 22,
+    "id_orig": 22,
+    "source": 4,
+    "target": 15
+
+},
+{
+
+    "id": 23,
+    "id_orig": 23,
+    "source": 0,
+    "target": 7
+
+},
+{
+
+    "id": 24,
+    "id_orig": 24,
+    "source": 0,
+    "target": 16
+
+},
+{
+
+    "id": 25,
+    "id_orig": 25,
+    "source": 17,
+    "target": 24
+
+},
+{
+
+    "id": 26,
+    "id_orig": 26,
+    "source": 17,
+    "target": 18
+
+},
+{
+
+    "id": 27,
+    "id_orig": 27,
+    "source": 17,
+    "target": 25
+
+},
+{
+
+    "id": 28,
+    "id_orig": 28,
+    "source": 17,
+    "target": 26
+
+},
+{
+
+    "id": 29,
+    "id_orig": 29,
+    "source": 17,
+    "target": 20
+
+},
+{
+
+    "id": 30,
+    "id_orig": 30,
+    "source": 17,
+    "target": 27
+
+},
+{
+
+    "id": 31,
+    "id_orig": 31,
+    "source": 17,
+    "target": 21
+
+},
+{
+
+    "id": 32,
+    "id_orig": 32,
+    "source": 17,
+    "target": 22
+
+},
+{
+
+    "id": 33,
+    "id_orig": 33,
+    "source": 17,
+    "target": 28
+
+},
+{
+
+    "id": 34,
+    "id_orig": 34,
+    "source": 28,
+    "target": 19
+
+},
+{
+
+    "id": 35,
+    "id_orig": 35,
+    "source": 28,
+    "target": 27
+
+},
+{
+
+    "id": 36,
+    "id_orig": 36,
+    "source": 28,
+    "target": 18
+
+},
+{
+
+    "id": 37,
+    "id_orig": 37,
+    "source": 28,
+    "target": 22
+
+},
+{
+
+    "id": 38,
+    "id_orig": 38,
+    "source": 28,
+    "target": 23
+
+},
+
+        {
+            "id": 39,
+            "id_orig": 39,
+            "source": 28,
+            "target": 25
+        }
+    ]
+
+}
