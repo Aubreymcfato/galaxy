@@ -34,8 +34,8 @@
     			node = svg.selectAll(".node"),
     			path = svg.selectAll(".path"),
     			text = svg.selectAll(".text");
-   		
-			d3.json("http://127.0.0.1:5000/show", function(error, json) {
+   		// era "http://127.0.0.1:5000/show"
+			d3.json("data.json", function(error, json) {
 
 				// build the arrow.
 				svg.append("svg:defs").selectAll("marker")
