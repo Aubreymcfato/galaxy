@@ -7,9 +7,12 @@
 {
 
     "author": "Jonathan Safran Foer",
-    "id": 1,
-    "title": "Se niente importa"
+    "id": 32,
+},
+{
 
+    "title": "Se niente importa",
+    "id":1,
 },
 {
 
@@ -521,6 +524,12 @@
             "id_orig": 39,
             "source": 28,
             "target": 25
+        },
+        {
+            "id": 40,
+            "id_orig": 40,
+            "source": 32,
+            "target": 1
         }
     ]
 
